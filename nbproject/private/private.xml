@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Model/Table/UzytkProdTable.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Uzytkownik/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Produkt/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Model/Entity/ProduktParam.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Kategorie/view.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Uzytkownik/edit.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Podkategorie/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Podkategorie/view.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Controller/UzytkownikController.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Uzytkownik/add.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Model/Entity/UzytkProd.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Uzytkownik/posilki.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Uzytkownik/zapotrzebowanie.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Controller/UzytkProdController.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Controller/ProduktController.php</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Produkt/view_edytuj_param.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Kategorie/index.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Template/Produkt/view.ctp</file>
+            <file>file:/C:/xampp/htdocs/kalkulator/src/Model/Table/UzytkownikTable.php</file>
+        </group>
+    </open-files>
+</project-private>
